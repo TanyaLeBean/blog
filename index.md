@@ -1,3 +1,3 @@
 # Our Blog
 
-We don't have anything here yet. Check back later!
+[Latest post](./blog_most_recent)
